@@ -46,4 +46,4 @@ Personal exam documents are not included in this repository.
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-python evaluate_csir_net.py
+python csir_net_evaluation.py
