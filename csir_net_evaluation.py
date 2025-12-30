@@ -1,6 +1,5 @@
 """
 CSIR-UGC NET Response Sheet Evaluation Script
-Author: A. R. Aromal
 
 This script evaluates CSIR-UGC NET (Life Sciences) response sheets by:
 1. Parsing the official response sheet PDF
