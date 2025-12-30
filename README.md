@@ -1,3 +1,4 @@
+![CI](https://github.com/ARAromal/csir-net-response-evaluation/actions/workflows/python-ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
